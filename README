@@ -2,3 +2,9 @@ https://github.com/jiaYingLin/warGames.git
 FROM:
 
 https://overthewire.org/wargames/
+
+Host:
+bandit.labs.overthewire.org
+
+port:
+2220
